@@ -7,11 +7,13 @@ Trajectory of an aircraft:
 
 Prediction demonstration：
 ![image](https://github.com/Cam2024/RNN-LSTM-GRU--based-Aircraft-Trajectory-Prediction/assets/89662823/0e5bc28b-dff2-47fb-9588-5cca480de568)
+
 Loss (RMSE):
 ![image](https://github.com/Cam2024/RNN-LSTM-GRU--based-Aircraft-Trajectory-Prediction/assets/89662823/12f6b09c-9eb4-4810-8e43-43bbd03baf98)
 
 MIMO models demostration：
 ![image](https://github.com/Cam2024/RNN-LSTM-GRU--based-Aircraft-Trajectory-Prediction/assets/89662823/e9bf61d1-7f4f-4b9d-b94b-a515b1f53794)
+
 Loss (RMSE):
 ![image](https://github.com/Cam2024/RNN-LSTM-GRU--based-Aircraft-Trajectory-Prediction/assets/89662823/13abbce5-25c2-4e63-91bb-ff8fe0955a9d)
 
